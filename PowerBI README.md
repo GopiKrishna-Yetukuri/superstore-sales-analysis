@@ -16,6 +16,6 @@ This folder contains the **Power BI dashboard** and related resources for the Su
 ## ⚙️ How to Use
 1. Open `superstore.pbix` in **Power BI Desktop**  
 2. Interact with slicers and visuals to explore insights  
-3. Refer to `DAX.md` for custom calculations  
+3. Refer to `DAX/measures.md` for custom calculations  
 
 ---
